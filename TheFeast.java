@@ -19,3 +19,4 @@ public class HomeworkDay10 {
 
 	}
 }
+//O(n)
